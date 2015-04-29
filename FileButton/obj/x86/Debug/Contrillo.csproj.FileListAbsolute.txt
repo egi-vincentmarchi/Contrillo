@@ -1,0 +1,27 @@
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\MainWindow.baml
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\App.g.cs
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\Contrillo.csproj.GenerateResource.Cache
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\bin\Debug\Contrillo.exe
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\bin\Debug\Contrillo.pdb
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\Contrillo_MarkupCompile.cache
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\Contrillo.g.resources
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\Contrillo.Properties.Resources.resources
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\Contrillo.exe
+C:\Users\Trader\Documents\Visual Studio 2010\Projects\Practice\FileButton\FileButton\obj\x86\Debug\Contrillo.pdb
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo.exe
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo.pdb
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\bin\Debug\Contrillo.exe
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\bin\Debug\Contrillo.pdb
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\MainWindow.baml
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\App.g.cs
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo_MarkupCompile.cache
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo.g.resources
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo.Properties.Resources.resources
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo.csproj.GenerateResource.Cache
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\bin\Debug\Contrillo.exe.manifest
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\bin\Debug\Contrillo.application
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo.TrustInfo.xml
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo.exe.manifest
+C:\Users\Trader\Documents\GitHub\Contrillo\FileButton\obj\x86\Debug\Contrillo.application
